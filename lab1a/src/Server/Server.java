@@ -3,17 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab1a;
+package Server;
 
 /**
  *
  * @author dagol
  */
-public class Main {
-
-    public static void main(String args[]){
-        
-        
-        
-    }
+public class Server {
+    
 }
